@@ -1,2 +1,6 @@
 # hello-git
-Trying this out
+
+How does this work?
+
+This line is pretty much eternal now. 
+Scary.
